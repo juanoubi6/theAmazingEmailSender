@@ -28,7 +28,7 @@ func ListenToEmailQueue(){
 
 func checkEmails(conn *nats.Conn){
 	conn.QueueSubscribe("emailSender:sendIndividualEmail", "sendIndividualEmail_workers", func(newMessage *nats.Msg) {
-		log.Printf("Recibi")
+
 		var individualEmailSendResp messages.IndividualEmailSendResponse
 		var individualEmailSendReq messages.IndividualEmailSendRequest
 		if err := json.Unmarshal(newMessage.Data, &individualEmailSendReq); err != nil {
