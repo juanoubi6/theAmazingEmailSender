@@ -1,0 +1,73 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "0U6U/u7kFn6PUazzHgNiOc6TtEw=",
+			"path": "github.com/nats-io/go-nats",
+			"revision": "ddbd40da73c1b21550ce82fd04fd5c149443cc76",
+			"revisionTime": "2018-08-21T18:28:41Z"
+		},
+		{
+			"checksumSHA1": "bs830QOHHVEVFYSYumRRvgZDe3Y=",
+			"path": "github.com/nats-io/go-nats/encoders/builtin",
+			"revision": "ddbd40da73c1b21550ce82fd04fd5c149443cc76",
+			"revisionTime": "2018-08-21T18:28:41Z"
+		},
+		{
+			"checksumSHA1": "gz3Ppo2qqCJSDbZpHiQVFg4jh5s=",
+			"path": "github.com/nats-io/go-nats/util",
+			"revision": "ddbd40da73c1b21550ce82fd04fd5c149443cc76",
+			"revisionTime": "2018-08-21T18:28:41Z"
+		},
+		{
+			"checksumSHA1": "QQDFFo069JfgSQOz/gf+eKzU+fY=",
+			"path": "github.com/nats-io/nuid",
+			"revision": "3024a71c3cbe30667286099921591e6fcc328230",
+			"revisionTime": "2018-07-12T04:49:59Z"
+		},
+		{
+			"checksumSHA1": "nne0yV5eeITDNk+dTuj1O+ZZono=",
+			"path": "github.com/sendgrid/rest",
+			"revision": "a44614977dc1c40d4c7cb62caeb3bd145e974e7d",
+			"revisionTime": "2017-12-11T23:24:04Z"
+		},
+		{
+			"checksumSHA1": "3+TsUBc+yij5QlTy8H/IPsK3NGg=",
+			"path": "github.com/sendgrid/sendgrid-go",
+			"revision": "fc52a7486bc3733289c65bb250a4e064fe424576",
+			"revisionTime": "2017-12-21T01:48:01Z"
+		},
+		{
+			"checksumSHA1": "IYMeOC2BP816zSwXQ5gFGKeWio0=",
+			"path": "github.com/sendgrid/sendgrid-go/helpers/mail",
+			"revision": "fc52a7486bc3733289c65bb250a4e064fe424576",
+			"revisionTime": "2017-12-21T01:48:01Z"
+		},
+		{
+			"checksumSHA1": "qHvpabDFyMF+xd3FHszn/KREh/4=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "fc587f31c804fe6853cd90f0d8d90af588eca5bd",
+			"revisionTime": "2018-08-17T01:25:29Z"
+		},
+		{
+			"checksumSHA1": "X1NTlfcau2XcV6WtAHF6b/DECOA=",
+			"path": "golang.org/x/crypto/ssh/terminal",
+			"revision": "d585fd2cc9195196078f516b69daff6744ef5e84",
+			"revisionTime": "2017-12-16T04:08:15Z"
+		},
+		{
+			"checksumSHA1": "9gwZHdu7sMojYYoGl5Ax6NSFaeU=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "1c9583448a9c3aa0f9a6a5241bf73c0bd8aafded",
+			"revisionTime": "2018-08-15T07:37:39Z"
+		},
+		{
+			"checksumSHA1": "apLcjhTfa/nKhpXTXjpfIZxVTKQ=",
+			"path": "golang.org/x/sys/windows",
+			"revision": "1c9583448a9c3aa0f9a6a5241bf73c0bd8aafded",
+			"revisionTime": "2018-08-15T07:37:39Z"
+		}
+	],
+	"rootPath": "theAmazingEmailSender"
+}

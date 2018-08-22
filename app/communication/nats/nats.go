@@ -1,7 +1,7 @@
 package nats
 
 import (
-	"theAmazingCodeExample/app/common"
+	"theAmazingEmailSender/app/common"
 	"time"
 )
 
