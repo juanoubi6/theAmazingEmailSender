@@ -30,7 +30,7 @@ func newConfig() Config {
 
 		NATS_URL: GetEnv("NATS_URL", "0.0.0.0:4222"),
 
-		SENDGRID_KEY_ID: GetEnv("SENDGRID_KEY_ID", "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"),
+		SENDGRID_KEY_ID: GetEnv("SENDGRID_KEY_ID", ""),
 
 		WORKER_AMOUNT: GetEnv("WORKER_AMOUNT", "3"),
 	}
